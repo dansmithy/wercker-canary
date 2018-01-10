@@ -1,0 +1,8 @@
+box:
+  id: alpine
+
+build:
+  steps:
+    - script:
+        name: say hello
+        code: echo hello people

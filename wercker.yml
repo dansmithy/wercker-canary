@@ -5,4 +5,4 @@ build:
   steps:
     - script:
         name: say hello
-        code: echo hello people
+        code: echo hello everybody
